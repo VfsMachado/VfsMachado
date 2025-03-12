@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VfsMachado
 - 👀 I’m interested in dev and jobs (junior, I still need guidance to dev)
-- 🌱 I’m currently learning C , Java and python 
+- 🌱 I’m currently learning Html,css, js, php & python 
 - 💞️ I’m looking to collaborate on projects that bring me learning
 - 📫 How to reach me vfsmachado27@gmail.com(email) @vfsmachado(instagram)
 
